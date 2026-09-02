@@ -1,2 +1,4 @@
-Autobot
-Decepticon
+Autobot：
+Optimus Prime
+Decepticon:
+Megatron
