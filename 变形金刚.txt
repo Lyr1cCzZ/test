@@ -1,5 +1,6 @@
 Autobot：
 Optimus Prime
+Bumble bee
 Decepticon:
 Megatron
 Shockwave
