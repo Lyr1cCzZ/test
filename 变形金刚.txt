@@ -1,4 +1,3 @@
 Autobot：
-Optimus Prime
+Sentinel Prime
 Decepticon:
-Jet Fire
