@@ -1,2 +1,3 @@
 fries
 chocolate
+milk
