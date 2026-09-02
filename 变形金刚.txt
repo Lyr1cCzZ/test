@@ -1,7 +1,4 @@
 Autobot：
 Optimus Prime
 Decepticon:
-Megatron
-Shockwave
-Soundwave
 Jet Fire
