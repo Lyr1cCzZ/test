@@ -2,3 +2,6 @@ Autobot：
 Decepticon:
 Jet fire
 Lockdown
+Shockwave
+Soundwave
+
